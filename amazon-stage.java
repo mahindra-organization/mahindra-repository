@@ -1,6 +1,5 @@
 
 
-
 will be doing merge conflict in amazon-stage.java in master branch
 
 
