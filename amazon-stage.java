@@ -1,6 +1,4 @@
-wee are doing merge conflict in amazon-stage.java in development branch
-
-
-hi stage how are you?
-
+hi stage how are you? in dev branch
 i am good good how abt you?
+
+
