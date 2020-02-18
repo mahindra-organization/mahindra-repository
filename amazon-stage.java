@@ -1,4 +1,4 @@
-we are doing merge conflict in amazon-stage.java in development branch
+wee are doing merge conflict in amazon-stage.java in development branch
 
 
 hi stage how are you?
